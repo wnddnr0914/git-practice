@@ -1,0 +1,134 @@
+    1  git --version
+    2  git config --list
+    3  git config --global -e
+    4  git clone 
+    5  git clone https://github.com/Chun-Honggyu/git-practice.git
+    6  git config --global user-name "Chun-Honggyu"
+    7  git config --global user.name 'Chun-Honggyu'
+    8  git config --global user.email 'honggyu1220@gachon.ac.kr'
+    9  git config --global user.email
+   10  git init
+   11  git add .
+   12  git commit -m 'Vacation Study'
+   13  git statue
+   14  git statue
+   15  git remote add origin https://github.com/Chun-Honggyu/Vacation_Study.git
+   16  git branch -M main
+   17  git push -u origin main
+   18  git statue
+   19  git state
+   20  git status
+   21  git add .
+   22  git commit
+   23  git status
+   24  git push
+   25  git status
+   26  git add .
+   27  git commit -m '2022/08/07 21:02'
+   28  git state
+   29  git status
+   30  git log
+   31  git add .
+   32  git commit -m '2022/08/08 01:30'
+   33  git push
+   34  git status
+   35  git log
+   36  git add .
+   37  git status
+   38  git commit -m '2022/08/08 04:24'
+   39  git push
+   40  git status
+   41  git add .
+   42  git commit -m '2022/08/14 14:48'
+   43  git push
+   44  git add .
+   45  git commit -m '2022/08/22 16:57'
+   46  git push
+   47  home
+   48  psd
+   49  pwd
+   50  ./icloud
+   51  cd ../
+   52  pwd
+   53  cd ../ | cd../
+   54  pwd
+   55  cd ../
+   56  cd ../
+   57  pwd
+   58  cd iCloud Drive
+   59  cd c
+   60  pwd
+   61  cd ./가천대학교/1학년 1학기
+   62  pwd
+   63  cd c\user
+   64  cd .\ user
+   65  home
+   66  pwd
+   67  cd c/Users/Desktop
+   68  cd ./Users/hongg
+   69  pwd
+   70  cd ./iCloud_Drive
+   71  cd ./학생회
+   72  cd ./iCloudDrive
+   73  pwd
+   74  cd ./오픈소스SW
+   75  cd ./1학년 2학기/오픈소스SW
+   76  cd ./1학년 2학기
+   77  cd ./1학년_2학기
+   78  cd ./오픈소스SW
+   79  cd ./Activity
+   80  ls
+   81  ls -l
+   82  ls -l/BigData
+   83  ls -l/Big Data
+   84  ls
+   85  chmod 777 BigData
+   86  chmod 777 Big_Data
+   87  ls -l
+   88  clear
+   89  cp Big_Data CP_Big_Data
+   90  cp -R Big_Data CP_Big_Data
+   91  mv Big_Data MV_Big_Data
+   92  rm -i MV_Big_Data
+   93  ls
+   94  mkdir NEWDIR
+   95  mkdir PERMISSION
+   96  cd PERMISSION
+   97  ls -l > OUTPUT
+   98  ls -l > output.txt
+   99  cat output.txt
+  100  chmod 755 output.txt
+  101  ls -l
+  102  sudo ls
+  103  pwd
+  104  cd iCloudDrive/1학년_2학기/오픈소스SW/Activity
+  105  pod
+  106  nano myscript.sh
+  107  ls-h
+  108  ls -l
+  109  sh myscript.sh
+  110  history > history.txt | cat history.txt
+  111  ls -l
+  112  cat output2
+  113  cat output2.txt
+  114  sort < output2.txt | nano
+  115  git --version
+  116  pwd
+  117  git config --global user.name "Honggyu Chun"
+  118  git config --global user.email honggyu1220@gachon.ac.kr
+  119  git config --global init.defaultBranch main
+  120  git config --list
+  121  git config user.name
+  122  git init
+  123  ls -lha
+  124  ls -h
+  125  ls -l
+  126  ls -l
+  127  ls -lh > file_list.txt
+  128  cat file_list.txt
+  129  nano
+  130  nano
+  131  history > history_command.txt
+  132  nano
+  133  nano
+  134  history > history_command.txt
